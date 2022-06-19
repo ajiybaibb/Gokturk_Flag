@@ -1,0 +1,13 @@
+body{
+    background: #5db8ee;
+    margin: auto;
+}
+.cls-1{
+    fill:#5db8ee;
+    }
+.cls-2{
+    fill:#07af13;
+    stroke:#009a07;
+    stroke-miterlimit:10;
+    stroke-width:2px;
+}
